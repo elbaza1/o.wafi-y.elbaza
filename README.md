@@ -1,3 +1,6 @@
 "# o.wafi-y.elbaza" 
 
-## A Maven project containing JPA, Hibernate and Restful Webservice using JAX-RS
+## A Maven project containing : 
+- JPA
+- Hibernate
+- Restful Webservice using JAX-RS
