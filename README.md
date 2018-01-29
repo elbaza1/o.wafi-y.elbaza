@@ -15,7 +15,7 @@ Otherwise for the Rest/Servlet part, run tomcat7, you can do that by using maven
 - tomcat7:run
 Then you will have access to the home page on 
 - http://localhost:8080/
-#Start by adding people using the form, once finished go to the Home form using the link at the top, you will be redirect to 
+<br>Start by adding people using the form, once finished go to the Home form using the link at the top, you will be redirect to 
 - http://localhost:8080/HomeInfo
 ---
 ## For the Rest Part 
