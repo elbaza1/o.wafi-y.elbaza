@@ -37,9 +37,9 @@ Post data to
 
 the request body must contains an object of course, for example to save a person :
 the request body contains something like :
->    {
->      "nom": "xxx",
->     "prenom": "x1x1x1",
->      "mail": "x1xxx1@gmail.com"
->    }
-and the body content type would be **application/json**
+>    {<br>
+>      "nom": "xxx",<br>
+>     "prenom": "x1x1x1",<br>
+>      "mail": "x1xxx1@gmail.com"<br>
+>    }<br>
+and the body content type would be **application/json**.
