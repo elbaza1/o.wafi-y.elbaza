@@ -10,7 +10,7 @@
 ---
 
 ## How to ?
-Before running this project, you must install dependencies for sure using **pom.xml** , then after it, start by creating a Mysql Database, called sir, or you can configure it on **persitence.xml**. Once finished run the **jpaTest.java** for the java part.
+Before running this project, you must install dependencies for sure using **pom.xml** , then after it, start by creating a Mysql Database, called sir, or you can configure it on **persitence.xml**.<br>Once finished run the **jpaTest.java** for the java part.
 Otherwise for the Rest/Servlet part, run tomcat7, you can do that by using maven console and running goal
 - tomcat7:run
 Then you will have access to the home page on 
@@ -38,8 +38,8 @@ Post data to
 the request body must contains an object of course, for example to save a person :
 the request body contains something like :
 >>    {
-       "nom": "xxx",
-       "prenom": "x1x1x1",
-       "mail": "x1xxx1@gmail.com"
-      }
+>>      "nom": "xxx",
+>>     "prenom": "x1x1x1",
+>>      "mail": "x1xxx1@gmail.com"
+>>    }
 and the body content type would be **application/json**
